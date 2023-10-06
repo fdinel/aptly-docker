@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:bookworm
 MAINTAINER Mike Purvis
 
 RUN apt-get update && \
